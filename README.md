@@ -71,10 +71,11 @@ This practical project provided an in-depth understanding of **Web3 and blockcha
 
 ---
 
-## 🙏 Acknowledgment  
+## Acknowledgment  
 I sincerely thank **Partnr Network** for this insightful learning experience under the **GPP Skill Graph Program**, and my **faculty mentors** for their constant support and guidance.  
 This project enhanced my confidence to further explore emerging technologies like **Blockchain**, **AI**, and **Web3 Development**.  
 
 ---
 
 **© 2025 Partnr Network — Blockchain & Web3 Skill Development Task**  
+
